@@ -1,0 +1,92 @@
+[
+  {
+    "projectId": "P001",
+    "title": "Batting Practice",
+    "assignedTo": "U101",
+    "assignedToName": "Virat Kohli",
+    "priority": "High",
+    "status": "In Progress",
+    "dueDate": "2025-05-10"
+  },
+  {
+    "projectId": "P002",
+    "title": "Captaincy Strategy Meeting",
+    "assignedTo": "U102",
+    "assignedToName": "Rohit Sharma",
+    "priority": "High",
+    "status": "Completed",
+    "dueDate": "2025-05-15"
+  },
+  {
+    "projectId": "P003",
+    "title": "Fast Bowling Training",
+    "assignedTo": "U103",
+    "assignedToName": "Jasprit Bumrah",
+    "priority": "Critical",
+    "status": "In Progress",
+    "dueDate": "2025-05-20"
+  },
+  {
+    "projectId": "P004",
+    "title": "Wicket Keeping Session",
+    "assignedTo": "U104",
+    "assignedToName": "KL Rahul",
+    "priority": "Medium",
+    "status": "Pending",
+    "dueDate": "2025-05-25"
+  },
+  {
+    "projectId": "P005",
+    "title": "Opening Partnership Practice",
+    "assignedTo": "U105",
+    "assignedToName": "Shubman Gill",
+    "priority": "High",
+    "status": "Completed",
+    "dueDate": "2025-05-18"
+  },
+  {
+    "projectId": "P006",
+    "title": "All-Rounder Training Camp",
+    "assignedTo": "U106",
+    "assignedToName": "Hardik Pandya",
+    "priority": "Critical",
+    "status": "In Progress",
+    "dueDate": "2025-05-22"
+  },
+  {
+    "projectId": "P007",
+    "title": "Fielding Practice",
+    "assignedTo": "U107",
+    "assignedToName": "Ravindra Jadeja",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2025-05-28"
+  },
+  {
+    "projectId": "P008",
+    "title": "Pace Bowling Workshop",
+    "assignedTo": "U108",
+    "assignedToName": "Mohammed Shami",
+    "priority": "Medium",
+    "status": "Completed",
+    "dueDate": "2025-06-01"
+  },
+  {
+    "projectId": "P009",
+    "title": "Match Fitness Assessment",
+    "assignedTo": "U109",
+    "assignedToName": "Rishabh Pant",
+    "priority": "High",
+    "status": "In Progress",
+    "dueDate": "2025-06-05"
+  },
+  {
+    "projectId": "P010",
+    "title": "T20 Batting Masterclass",
+    "assignedTo": "U110",
+    "assignedToName": "Suryakumar Yadav",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2025-06-10"
+  }
+]
